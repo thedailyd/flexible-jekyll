@@ -3,6 +3,7 @@ _site
 .jekyll-metadata
 yarn.lock
 node_modules/
+nppBackup/
 
 ### macOS ###
 *.DS_Store
