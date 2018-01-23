@@ -9,7 +9,7 @@ url: "http://thedailyd.stream" # the base hostname & protocol for your site, e.g
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author:  # add your name
+author: The Daily D # add your name
 author-img: david-freeman.jpg # add your photo
 about-author: Not Sam. # add description
 twitter:  # add your Twitter handle
